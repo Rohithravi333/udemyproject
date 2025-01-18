@@ -1,7 +1,8 @@
 # Udemy Front Page Clone
 
 This project is a simple clone of the Udemy front page, created using **HTML** and **CSS**. It demonstrates my skills in web design and responsive layout techniques.
-## To view the project use link:" "
+## To view the project use link 
+https://rohithravi333.github.io/udemyproject/ 
 
 ## About the Project
 
